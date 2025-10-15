@@ -3,7 +3,7 @@
 Hi, I'm Fabian Arndt, a passionate full-stack software developer from Germany who is currently living in Switzerland.
 
 ## 🥾 My Journey
-I started with an apprenticeship in media design, which introduced me to web development and inspired me to pursue a degree in computer science. Since graduating, I’ve been dedicated to software development and continue to self-educate, exploring new and exciting tech topics.
+My journey began with an apprenticeship in media design, which introduced me to web development and inspired me to pursue a degree in computer science. Since graduating, I’ve been dedicated to software development and continue to self-educate, exploring new and exciting tech topics.
 
 ## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
