@@ -5,12 +5,15 @@
 My journey began with an apprenticeship in media design, which introduced me to web development and inspired me to study computer science. Since graduating, I have dedicated myself to software development with great curiosity and I am constantly learning more about new and exciting tech topics.
 
 ## 💻 Tech Stack
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-000000.svg?style=flat-square&logo=symfony&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=flat-square&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-F69824.svg?style=flat-square&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
