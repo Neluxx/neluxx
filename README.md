@@ -7,6 +7,7 @@ My journey began with an apprenticeship in media design, which introduced me to 
 ## 💻 Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/cakephp-C92434.svg?style=flat-square&logo=cakephp&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-000000.svg?style=flat-square&logo=symfony&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
