@@ -6,17 +6,20 @@ My journey began with an apprenticeship in media design, which introduced me to 
 
 ## 💻 Tech Stack
 
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/cakephp-C92434.svg?style=flat-square&logo=cakephp&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-000000.svg?style=flat-square&logo=symfony&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-F69824.svg?style=flat-square&logo=apache&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-020204.svg?style=flat-square&logo=linux&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/CakePHP-C92434.svg?style=flat-square&logo=cakephp&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=flat-square&logo=symfony&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-F69824.svg?style=flat-square&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-020204.svg?style=flat-square&logo=linux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34C26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-264DE4.svg?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
 
