@@ -14,8 +14,9 @@ My journey began with an apprenticeship in media design, which introduced me to 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=flat-square&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-F69824.svg?style=flat-square&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-F69824.svg?style=flat-square&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-020204.svg?style=flat-square&logo=linux&logoColor=white)
 
 ## 📊 GitHub Stats
 
