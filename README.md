@@ -17,9 +17,6 @@ My journey began with an apprenticeship in media design, which introduced me to 
 ![Docker](https://img.shields.io/badge/Docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-F69824.svg?style=flat-square&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-020204.svg?style=flat-square&logo=linux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34C26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-264DE4.svg?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
 
