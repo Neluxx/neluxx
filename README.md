@@ -21,8 +21,8 @@ My journey began with an apprenticeship in media design, which introduced me to 
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neluxx&theme=dark&layout=donut">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Neluxx&theme=dark">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Neluxx&theme=dark&hide=contribs">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neluxx&theme=dark&layout=donut">
 </a>
