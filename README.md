@@ -4,8 +4,6 @@
 
 My journey began with an apprenticeship in media design, which introduced me to web development and inspired me to study computer science. Since graduating, I have dedicated myself to software development with great curiosity and I am constantly learning more about new and exciting tech topics.
 
-## 💻 Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
@@ -17,8 +15,6 @@ My journey began with an apprenticeship in media design, which introduced me to 
 ![Docker](https://img.shields.io/badge/Docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-F69824.svg?style=flat-square&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-020204.svg?style=flat-square&logo=linux&logoColor=white)
-
-## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-seven-inky-78.vercel.app/api?username=Neluxx&theme=dark&show=reviews">
