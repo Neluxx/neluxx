@@ -17,8 +17,8 @@ My journey began with an apprenticeship in media design, which introduced me to 
 ![Linux](https://img.shields.io/badge/Linux-020204.svg?style=flat-square&logo=linux&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-inky-78.vercel.app/api?username=Neluxx&theme=dark&show=reviews">
+  <img height=200 align="center" src="https://github-readme-stats-seven-inky-78.vercel.app/api?username=Neluxx&theme=dark&show=reviews&cache_seconds=21600">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-inky-78.vercel.app/api/top-langs/?username=Neluxx&theme=dark&layout=donut&exclude_repo=knightmare">
+  <img height=200 align="center" src="https://github-readme-stats-seven-inky-78.vercel.app/api/top-langs/?username=Neluxx&theme=dark&layout=donut&exclude_repo=knightmare&cache_seconds=21600">
 </a>
