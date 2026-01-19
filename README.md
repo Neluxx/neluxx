@@ -4,13 +4,13 @@
 
 My journey began with an apprenticeship in media design, which introduced me to web development and inspired me to study computer science. Since graduating, I have dedicated myself to software development with great curiosity and I am constantly learning more about new and exciting tech topics.
 
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=flat-square&logo=symfony&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/CakePHP-C92434.svg?style=flat-square&logo=cakephp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-F69824.svg?style=flat-square&logo=apache&logoColor=white)
