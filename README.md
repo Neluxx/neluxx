@@ -1,8 +1,8 @@
 # About Me
 
-👋 Hey, what's up? I'm Fabian, an enthusiastic full-stack software developer from Germany who is currently living in Switzerland.
+👋 Hey, my name is Fabian. I am a full-stack software developer from Germany, currently based in Switzerland.
 
-My journey began with an apprenticeship in media design, which introduced me to web development and inspired me to study computer science. Since graduating, I have dedicated myself to software development with great curiosity and I am constantly learning more about new and exciting tech topics.
+I began my career with an apprenticeship in media design, which introduced me to web development and motivated me to pursue a degree in computer science. Since graduating, I have focused on software development, driven by curiosity and a commitment to continuously expand my knowledge of emerging technologies.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=flat-square&logo=symfony&logoColor=white)
