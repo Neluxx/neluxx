@@ -12,10 +12,3 @@ I began my career with an apprenticeship in media design, which introduced me to
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-inky-78.vercel.app/api?username=Neluxx&theme=dark&hide=contribs&cache_seconds=21600&show=reviews,prs_merged_percentage">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-inky-78.vercel.app/api/top-langs/?username=Neluxx&theme=dark&layout=donut&exclude_repo=knightmare&cache_seconds=21600&hide=makefile">
-</a>
