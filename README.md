@@ -2,7 +2,7 @@
 
 I’m a full-stack software developer from Germany with a passion for building things on the web, contributing to open source, and experimenting with new technologies. I originally came from a media design background, which sparked my interest in development and eventually led me into computer science.
 
-When I’m not working on software, I’m usually creating Minecraft datapacks or tinkering with side projects.
+When I’m not working on software, I contribute to open source projects, tinkering with side projects or create Minecraft datapacks.
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
