@@ -10,6 +10,8 @@ Outside of work, I contribute to open source whenever I find something worth fix
 - **[enviro-hub](https://github.com/Neluxx/enviro-hub) + [enviro-node](https://github.com/Neluxx/enviro-node)**: Raspberry Pi sensor nodes in Python that report to a Laravel API with a dashboard.
 - **[Minecraft datapacks](https://github.com/Neluxx?tab=repositories&q=datapack&type=&language=&sort=)** that tweak world generation, like bringing back the classic pre-1.18 caves.
 
+Away from the keyboard, I’m a husband and dad of two, and I spend my free time hiking or working in my garden.
+
 ---
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
