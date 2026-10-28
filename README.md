@@ -14,15 +14,4 @@ Away from the keyboard, I’m a husband and dad of two, and I spend my free time
 
 ---
 
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![CakePHP](https://img.shields.io/badge/CakePHP-C92434.svg?style=flat-square&logo=cakephp&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340.svg?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6.svg?style=flat-square&logo=livewire&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=flat-square&logo=symfony&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-384D54.svg?style=flat-square&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat-square&logo=raspberrypi&logoColor=white)
-
 Want to chat? Find me on [LinkedIn](https://www.linkedin.com/in/arndt-fabian/) or at [fabian-arndt.dev](https://fabian-arndt.dev).
