@@ -14,4 +14,4 @@ Away from the keyboard, I’m a husband and dad of two, and I spend my free time
 
 ---
 
-Want to chat? Find me on [LinkedIn](https://www.linkedin.com/in/arndt-fabian/) or write me at [info@fabian-arndt.dev](mailto:info@fabian-arndt.dev).
+Want to chat? Find me on [LinkedIn](https://www.linkedin.com/in/arndt-fabian/) or write me at [neluxx@proton.me](mailto:neluxx@proton.me).
