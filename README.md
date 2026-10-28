@@ -6,12 +6,12 @@ At [@orca-services](https://github.com/orca-services) I build and maintain custo
 
 Outside of work, I contribute to open source whenever I find something worth fixing and tinker with my own side projects:
 
-- **[cli-portfolio](https://github.com/Neluxx/cli-portfolio)**: my portfolio as an interactive terminal in the browser, built with Laravel and Livewire. [Try it out](https://fabian-arndt.dev)
-- **[enviro-hub](https://github.com/Neluxx/enviro-hub) + [enviro-node](https://github.com/Neluxx/enviro-node)**: Raspberry Pi sensor nodes in Python that report to a Laravel API with a dashboard.
+- **[air2mqtt](https://github.com/Neluxx/air2mqtt)** (coming soon): reads air quality sensor data and publishes it to MQTT.
+- **[neluxx.github.io](https://github.com/Neluxx/neluxx.github.io)**: my portfolio as an interactive terminal in the browser, built with plain HTML, CSS and JavaScript. [Try it out](https://neluxx.github.io/)
 - **[Minecraft datapacks](https://github.com/Neluxx?tab=repositories&q=datapack&type=&language=&sort=)** that tweak world generation, like bringing back the classic pre-1.18 caves.
 
 Away from the keyboard, I’m a husband and dad of two, and I spend my free time hiking or working in my garden.
 
 ---
 
-Want to chat? Find me on [LinkedIn](https://www.linkedin.com/in/arndt-fabian/) or at [fabian-arndt.dev](https://fabian-arndt.dev).
+Want to chat? Find me on [LinkedIn](https://www.linkedin.com/in/arndt-fabian/) or write me at [info@fabian-arndt.dev](mailto:info@fabian-arndt.dev).
