@@ -7,7 +7,7 @@ At [@orca-services](https://github.com/orca-services), I build and maintain cust
 In my spare time, I contribute to open source when I come across something worth improving, and work on projects of my own:
 
 - **[air2mqtt](https://github.com/Neluxx/air2mqtt)**: reads air quality sensor data and publishes it to MQTT.
-- **[neluxx.github.io](https://github.com/Neluxx/neluxx.github.io)**: my portfolio as an interactive terminal in the browser, built with plain HTML, CSS and JavaScript. [Give it a try](https://neluxx.github.io/).
+- **[neluxx.github.io](https://github.com/Neluxx/neluxx.github.io)**: my portfolio as an interactive terminal in the browser, built with plain HTML, CSS and JavaScript. [Try it out](https://neluxx.github.io/).
 - **[Minecraft datapacks](https://github.com/Neluxx?tab=repositories&q=datapack&type=&language=&sort=)**: small tweaks to world generation, like bringing back the classic pre-1.18 caves.
 
 Away from the keyboard, I enjoy spending time outdoors, whether it's hiking or working in the garden.
